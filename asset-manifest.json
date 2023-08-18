@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc120a5d.css",
+    "main.js": "/static/js/main.5bfba5f1.js",
+    "static/media/altcoin-news-0008-1.jpg": "/static/media/altcoin-news-0008-1.300f0344840e7d65c928.jpg",
+    "static/media/4654987946541.jpg": "/static/media/4654987946541.8e1c1d02391e0e65776d.jpg",
+    "static/media/TON-4.jpg": "/static/media/TON-4.ba816909d48cf29c4bf6.jpg",
+    "static/media/987987.jpg": "/static/media/987987.d5922a463ddc464d0234.jpg",
+    "static/media/5348934.jpg": "/static/media/5348934.1704c1d32b0d122d56df.jpg",
+    "static/media/a-72.webp": "/static/media/a-72.ad41d9d709d2a545f151.webp",
+    "static/media/newsletter_bg_light.svg": "/static/media/newsletter_bg_light.b76cafbcbe1f434252bd.svg",
+    "static/media/newsletter_bg_dark.svg": "/static/media/newsletter_bg_dark.19c78e8bd7c4d7bfe67b.svg",
+    "static/media/webp": "/static/media/920899b9361f0dd278136171953e6b44.43195751177d145bf3d0.webp",
+    "static/media/logo-light.svg": "/static/media/logo-light.45ecf7f6948d6c936ac1c5de4048407a.svg",
+    "static/media/logo-dark.svg": "/static/media/logo-dark.7941a26e784f2ea5b026736ac45042a8.svg",
+    "index.html": "/index.html",
+    "main.bc120a5d.css.map": "/static/css/main.bc120a5d.css.map",
+    "main.5bfba5f1.js.map": "/static/js/main.5bfba5f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc120a5d.css",
+    "static/js/main.5bfba5f1.js"
+  ]
+}
